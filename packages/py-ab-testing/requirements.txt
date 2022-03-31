@@ -1,6 +1,7 @@
 pytest>=4.6,<=4.7
 pytest-cov>=2.8,<=3
 snapshottest<1.0
+pyyaml@3.13
 # later version of fastdiff stops working with py27, required by snapshottest
 fastdiff==0.2.0
 mock<4.0
